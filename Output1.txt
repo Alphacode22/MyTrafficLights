@@ -1,0 +1,10 @@
+3
+0
+1
+1
+2
+rue-d-londres 1
+2
+1
+rue-d-athens 2
+rue-d-amsterdam 1
